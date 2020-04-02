@@ -79,17 +79,29 @@
     <Compile Include="2.G.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Vektor i planet.Designer.vb">
+      <DependentUpon>Vektor i planet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vektor i planet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trigonomiske funktioner.Designer.vb">
+      <DependentUpon>Trigonomiske funktioner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Trigonomiske funktioner.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Highscore.Designer.vb">
       <DependentUpon>Highscore.vb</DependentUpon>
     </Compile>
     <Compile Include="Highscore.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Unilogin.vb">
+    <Compile Include="Login.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Unilogin.Designer.vb">
-      <DependentUpon>Unilogin.vb</DependentUpon>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forside.Designer.vb">
@@ -118,8 +130,8 @@
     <EmbeddedResource Include="2.G.resx">
       <DependentUpon>2.G.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Unilogin.resx">
-      <DependentUpon>Unilogin.vb</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forside.resx">
       <DependentUpon>Forside.vb</DependentUpon>
@@ -129,6 +141,12 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trigonomiske funktioner.resx">
+      <DependentUpon>Trigonomiske funktioner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vektor i planet.resx">
+      <DependentUpon>Vektor i planet.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
