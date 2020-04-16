@@ -1,0 +1,16 @@
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\bin\Debug\Eksamensprojekt - Matematikside.exe.config
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\bin\Debug\Eksamensprojekt - Matematikside.exe
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\bin\Debug\Eksamensprojekt - Matematikside.pdb
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\bin\Debug\Eksamensprojekt - Matematikside.xml
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.vbprojAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Andenårgang.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Login.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Forside.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Resources.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Trigonomiske_funktioner.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Vektor_i_planet.resources
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.vbproj.GenerateResource.cache
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.vbproj.CoreCompileInputs.cache
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.exe
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.xml
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.pdb
