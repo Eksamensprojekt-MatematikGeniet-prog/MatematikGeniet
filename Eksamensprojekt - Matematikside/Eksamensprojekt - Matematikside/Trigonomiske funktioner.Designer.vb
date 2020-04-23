@@ -25,6 +25,7 @@ Partial Class Trigonomiske_funktioner
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Trigonomiske_funktioner))
         Me.Lbl_TitelTrigonomiskeFunktioner = New System.Windows.Forms.Label()
         Me.Pbox_Tilbage_TrigonomiskeFunktioner = New System.Windows.Forms.PictureBox()
+        Me.Lbl_TFOpgave1 = New System.Windows.Forms.Label()
         CType(Me.Pbox_Tilbage_TrigonomiskeFunktioner, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -48,11 +49,23 @@ Partial Class Trigonomiske_funktioner
         Me.Pbox_Tilbage_TrigonomiskeFunktioner.TabIndex = 4
         Me.Pbox_Tilbage_TrigonomiskeFunktioner.TabStop = False
         '
+        'Lbl_TFOpgave1
+        '
+        Me.Lbl_TFOpgave1.AutoSize = True
+        Me.Lbl_TFOpgave1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl_TFOpgave1.Location = New System.Drawing.Point(64, 76)
+        Me.Lbl_TFOpgave1.Name = "Lbl_TFOpgave1"
+        Me.Lbl_TFOpgave1.Size = New System.Drawing.Size(236, 96)
+        Me.Lbl_TFOpgave1.TabIndex = 5
+        Me.Lbl_TFOpgave1.Text = "Opgave 1" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Følgende vinkelmål skal regnes i grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "a) 1 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "b) 2,3468 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "c) 4," &
+    "0456 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "d) 5,9732" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        '
         'Trigonomiske_funktioner
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(816, 447)
+        Me.Controls.Add(Me.Lbl_TFOpgave1)
         Me.Controls.Add(Me.Pbox_Tilbage_TrigonomiskeFunktioner)
         Me.Controls.Add(Me.Lbl_TitelTrigonomiskeFunktioner)
         Me.Name = "Trigonomiske_funktioner"
@@ -65,4 +78,5 @@ Partial Class Trigonomiske_funktioner
 
     Friend WithEvents Lbl_TitelTrigonomiskeFunktioner As Label
     Friend WithEvents Pbox_Tilbage_TrigonomiskeFunktioner As PictureBox
+    Friend WithEvents Lbl_TFOpgave1 As Label
 End Class
