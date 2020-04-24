@@ -10,7 +10,7 @@
     End Sub
 
     Private Sub Pbox_Tilbage_2G_Click(sender As Object, e As EventArgs) Handles Pbox_Tilbage_2G.Click
-        Forside.Show() ''Når man trykker på knappen vil denne side vises
+        Forside.Show() 'Når man trykker på knappen vil denne side vises
         Me.Hide() 'Når man trykker på knappen vil denne side gemmes, så den ikke kan ses
     End Sub
 End Class
