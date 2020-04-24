@@ -53,7 +53,7 @@ Partial Class Trigonomiske_funktioner
         '
         Me.Lbl_TFOpgave1.AutoSize = True
         Me.Lbl_TFOpgave1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lbl_TFOpgave1.Location = New System.Drawing.Point(64, 76)
+        Me.Lbl_TFOpgave1.Location = New System.Drawing.Point(64, 80)
         Me.Lbl_TFOpgave1.Name = "Lbl_TFOpgave1"
         Me.Lbl_TFOpgave1.Size = New System.Drawing.Size(236, 96)
         Me.Lbl_TFOpgave1.TabIndex = 5
