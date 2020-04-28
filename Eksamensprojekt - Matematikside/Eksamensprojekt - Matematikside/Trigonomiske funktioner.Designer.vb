@@ -26,6 +26,7 @@ Partial Class Trigonomiske_funktioner
         Me.Lbl_TitelTrigonomiskeFunktioner = New System.Windows.Forms.Label()
         Me.Pbox_Tilbage_TrigonomiskeFunktioner = New System.Windows.Forms.PictureBox()
         Me.Lbl_TFOpgave1 = New System.Windows.Forms.Label()
+        Me.Lbl_opg1a = New System.Windows.Forms.Label()
         CType(Me.Pbox_Tilbage_TrigonomiskeFunktioner, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -60,11 +61,22 @@ Partial Class Trigonomiske_funktioner
         Me.Lbl_TFOpgave1.Text = "Opgave 1" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Følgende vinkelmål skal regnes i grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "a) 1 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "b) 2,3468 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "c) 4," &
     "0456 rad" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "d) 5,9732" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
+        'Lbl_opg1a
+        '
+        Me.Lbl_opg1a.AutoSize = True
+        Me.Lbl_opg1a.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Lbl_opg1a.Location = New System.Drawing.Point(64, 194)
+        Me.Lbl_opg1a.Name = "Lbl_opg1a"
+        Me.Lbl_opg1a.Size = New System.Drawing.Size(19, 16)
+        Me.Lbl_opg1a.TabIndex = 6
+        Me.Lbl_opg1a.Text = "a)"
+        '
         'Trigonomiske_funktioner
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(816, 447)
+        Me.Controls.Add(Me.Lbl_opg1a)
         Me.Controls.Add(Me.Lbl_TFOpgave1)
         Me.Controls.Add(Me.Pbox_Tilbage_TrigonomiskeFunktioner)
         Me.Controls.Add(Me.Lbl_TitelTrigonomiskeFunktioner)
@@ -79,4 +91,5 @@ Partial Class Trigonomiske_funktioner
     Friend WithEvents Lbl_TitelTrigonomiskeFunktioner As Label
     Friend WithEvents Pbox_Tilbage_TrigonomiskeFunktioner As PictureBox
     Friend WithEvents Lbl_TFOpgave1 As Label
+    Friend WithEvents Lbl_opg1a As Label
 End Class
