@@ -201,7 +201,7 @@ Partial Class Trigonomiske_funktioner
         Me.Lbl_TFOpgave2.Name = "Lbl_TFOpgave2"
         Me.Lbl_TFOpgave2.Size = New System.Drawing.Size(159, 96)
         Me.Lbl_TFOpgave2.TabIndex = 18
-        Me.Lbl_TFOpgave2.Text = "Opgave 1" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Du har følgende vinkelmål:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "a) 54,2 grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "b) 135,8 grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "c) 256,7 g" &
+        Me.Lbl_TFOpgave2.Text = "Opgave 2" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Du har følgende vinkelmål:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "a) 54,2 grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "b) 135,8 grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "c) 256,7 g" &
     "rader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "d) 341,7 grader" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'But_opg2d_tjek
