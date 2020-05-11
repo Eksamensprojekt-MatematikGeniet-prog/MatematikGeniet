@@ -51,6 +51,14 @@ Partial Class Trigonomiske_funktioner
         Me.Lbl_opg2c = New System.Windows.Forms.Label()
         Me.Lbl_opg2b = New System.Windows.Forms.Label()
         Me.Lbl_opg2a = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg1a = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg1b = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg1c = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg1d = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg2d = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg2c = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg2b = New System.Windows.Forms.Label()
+        Me.Lbl_statusOpg2a = New System.Windows.Forms.Label()
         CType(Me.Pbox_Tilbage_TrigonomiskeFunktioner, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -312,11 +320,83 @@ Partial Class Trigonomiske_funktioner
         Me.Lbl_opg2a.TabIndex = 19
         Me.Lbl_opg2a.Text = "a)"
         '
+        'Lbl_statusOpg1a
+        '
+        Me.Lbl_statusOpg1a.AutoSize = True
+        Me.Lbl_statusOpg1a.Location = New System.Drawing.Point(274, 193)
+        Me.Lbl_statusOpg1a.Name = "Lbl_statusOpg1a"
+        Me.Lbl_statusOpg1a.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg1a.TabIndex = 31
+        '
+        'Lbl_statusOpg1b
+        '
+        Me.Lbl_statusOpg1b.AutoSize = True
+        Me.Lbl_statusOpg1b.Location = New System.Drawing.Point(274, 225)
+        Me.Lbl_statusOpg1b.Name = "Lbl_statusOpg1b"
+        Me.Lbl_statusOpg1b.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg1b.TabIndex = 32
+        '
+        'Lbl_statusOpg1c
+        '
+        Me.Lbl_statusOpg1c.AutoSize = True
+        Me.Lbl_statusOpg1c.Location = New System.Drawing.Point(274, 253)
+        Me.Lbl_statusOpg1c.Name = "Lbl_statusOpg1c"
+        Me.Lbl_statusOpg1c.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg1c.TabIndex = 33
+        '
+        'Lbl_statusOpg1d
+        '
+        Me.Lbl_statusOpg1d.AutoSize = True
+        Me.Lbl_statusOpg1d.Location = New System.Drawing.Point(274, 284)
+        Me.Lbl_statusOpg1d.Name = "Lbl_statusOpg1d"
+        Me.Lbl_statusOpg1d.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg1d.TabIndex = 34
+        '
+        'Lbl_statusOpg2d
+        '
+        Me.Lbl_statusOpg2d.AutoSize = True
+        Me.Lbl_statusOpg2d.Location = New System.Drawing.Point(677, 283)
+        Me.Lbl_statusOpg2d.Name = "Lbl_statusOpg2d"
+        Me.Lbl_statusOpg2d.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg2d.TabIndex = 38
+        '
+        'Lbl_statusOpg2c
+        '
+        Me.Lbl_statusOpg2c.AutoSize = True
+        Me.Lbl_statusOpg2c.Location = New System.Drawing.Point(677, 252)
+        Me.Lbl_statusOpg2c.Name = "Lbl_statusOpg2c"
+        Me.Lbl_statusOpg2c.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg2c.TabIndex = 37
+        '
+        'Lbl_statusOpg2b
+        '
+        Me.Lbl_statusOpg2b.AutoSize = True
+        Me.Lbl_statusOpg2b.Location = New System.Drawing.Point(677, 224)
+        Me.Lbl_statusOpg2b.Name = "Lbl_statusOpg2b"
+        Me.Lbl_statusOpg2b.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg2b.TabIndex = 36
+        '
+        'Lbl_statusOpg2a
+        '
+        Me.Lbl_statusOpg2a.AutoSize = True
+        Me.Lbl_statusOpg2a.Location = New System.Drawing.Point(677, 192)
+        Me.Lbl_statusOpg2a.Name = "Lbl_statusOpg2a"
+        Me.Lbl_statusOpg2a.Size = New System.Drawing.Size(0, 13)
+        Me.Lbl_statusOpg2a.TabIndex = 35
+        '
         'Trigonomiske_funktioner
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(816, 447)
+        Me.Controls.Add(Me.Lbl_statusOpg2d)
+        Me.Controls.Add(Me.Lbl_statusOpg2c)
+        Me.Controls.Add(Me.Lbl_statusOpg2b)
+        Me.Controls.Add(Me.Lbl_statusOpg2a)
+        Me.Controls.Add(Me.Lbl_statusOpg1d)
+        Me.Controls.Add(Me.Lbl_statusOpg1c)
+        Me.Controls.Add(Me.Lbl_statusOpg1b)
+        Me.Controls.Add(Me.Lbl_statusOpg1a)
         Me.Controls.Add(Me.But_opg2d_tjek)
         Me.Controls.Add(Me.But_opg2c_tjek)
         Me.Controls.Add(Me.But_opg2b_tjek)
@@ -381,4 +461,12 @@ Partial Class Trigonomiske_funktioner
     Friend WithEvents Lbl_opg2c As Label
     Friend WithEvents Lbl_opg2b As Label
     Friend WithEvents Lbl_opg2a As Label
+    Friend WithEvents Lbl_statusOpg1a As Label
+    Friend WithEvents Lbl_statusOpg1b As Label
+    Friend WithEvents Lbl_statusOpg1c As Label
+    Friend WithEvents Lbl_statusOpg1d As Label
+    Friend WithEvents Lbl_statusOpg2d As Label
+    Friend WithEvents Lbl_statusOpg2c As Label
+    Friend WithEvents Lbl_statusOpg2b As Label
+    Friend WithEvents Lbl_statusOpg2a As Label
 End Class
