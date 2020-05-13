@@ -86,7 +86,7 @@ Partial Class Highscore
         '
         Me.Lbl_Brugernavn.AutoSize = True
         Me.Lbl_Brugernavn.Font = New System.Drawing.Font("Arial", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lbl_Brugernavn.Location = New System.Drawing.Point(224, 154)
+        Me.Lbl_Brugernavn.Location = New System.Drawing.Point(233, 154)
         Me.Lbl_Brugernavn.Name = "Lbl_Brugernavn"
         Me.Lbl_Brugernavn.Size = New System.Drawing.Size(0, 22)
         Me.Lbl_Brugernavn.TabIndex = 11
