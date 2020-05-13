@@ -131,6 +131,9 @@
     <EmbeddedResource Include="2.G.resx">
       <DependentUpon>2.G.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Highscore.resx">
+      <DependentUpon>Highscore.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>

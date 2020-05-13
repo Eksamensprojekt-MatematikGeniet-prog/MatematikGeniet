@@ -14,3 +14,4 @@ C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGenie
 C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.exe
 C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.xml
 C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt - Matematikside.pdb
+C:\Users\Bruger\Source\Repos\Eksamensprojekt-MatematikGeniet-prog\MatematikGeniet\Eksamensprojekt - Matematikside\Eksamensprojekt - Matematikside\obj\Debug\Eksamensprojekt___Matematikside.Highscore.resources

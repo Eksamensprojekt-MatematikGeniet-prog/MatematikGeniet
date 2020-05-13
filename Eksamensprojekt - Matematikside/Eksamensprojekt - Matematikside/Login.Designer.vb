@@ -35,11 +35,12 @@ Partial Class Login
         '
         Me.Lbl_status.AutoSize = True
         Me.Lbl_status.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lbl_status.Location = New System.Drawing.Point(494, 195)
+        Me.Lbl_status.ForeColor = System.Drawing.Color.Red
+        Me.Lbl_status.Location = New System.Drawing.Point(268, 124)
         Me.Lbl_status.Name = "Lbl_status"
-        Me.Lbl_status.Size = New System.Drawing.Size(68, 16)
+        Me.Lbl_status.Size = New System.Drawing.Size(239, 16)
         Me.Lbl_status.TabIndex = 1
-        Me.Lbl_status.Text = "Lbl_status"
+        Me.Lbl_status.Text = "Brugernavn eller adgangskode er forkert!"
         '
         'But_login
         '
@@ -62,6 +63,7 @@ Partial Class Login
         '
         Me.Txtbox_Adgangskode.Location = New System.Drawing.Point(311, 222)
         Me.Txtbox_Adgangskode.Name = "Txtbox_Adgangskode"
+        Me.Txtbox_Adgangskode.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.Txtbox_Adgangskode.Size = New System.Drawing.Size(146, 20)
         Me.Txtbox_Adgangskode.TabIndex = 4
         '
