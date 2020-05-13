@@ -79,6 +79,7 @@
     <Compile Include="2.G.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="Vektor i planet.Designer.vb">
       <DependentUpon>Vektor i planet.vb</DependentUpon>
     </Compile>
